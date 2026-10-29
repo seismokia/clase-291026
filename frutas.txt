@@ -1,1 +1,2 @@
 Fruta: plátano
+Fruta: pera
